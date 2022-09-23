@@ -16,7 +16,7 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
     { name: 'New', icon: <HomeIcon />, },
-    { name: 'JS Mastery', icon: <CodeIcon />, },
+    { name: 'NIT KKR', icon: <CodeIcon />, },
     { name: 'Coding', icon: <CodeIcon />, },
     { name: 'ReactJS', icon: <CodeIcon />, },
     { name: 'NextJS', icon: <CodeIcon />, },
@@ -35,8 +35,8 @@ export const categories = [
 ];
 
 export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
-export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
-export const demoVideoUrl = '/video/GDa8kZLNhJ4';
-export const demoChannelTitle = 'JavaScript Mastery';
-export const demoVideoTitle = 'Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI';
-export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
+export const demoChannelUrl = 'https://www.youtube.com/channel/UCeNBt-YR8d6xpfGtna8-RSg';
+export const demoVideoUrl = 'https://www.youtube.com/watch?v=M8v9UDaEN7k';
+export const demoChannelTitle = 'NIT Kurukshetra';
+export const demoVideoTitle = 'IDY-2018 Part-I';
+export const demoProfilePicture = 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FNITKkrBGT%2F&psig=AOvVaw0K1j-ToYhs0uRuZYb80N8G&ust=1664029319814000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNC6_LeOq_oCFQAAAAAdAAAAABAD'
