@@ -3,7 +3,7 @@ Using RapidAPI YouTube V3 API I have built a working website clone of Youtube wh
 and much more
 
 # To Visit the working site 
-**YouTube-V2** - https://brilliant-bienenstitch-a140c6.netlify.app/
+**YouTube-V2** - https://vocal-daffodil-c9f263.netlify.app
 
 # Tech Stack In-Use
 <li>Material UI</li>
