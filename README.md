@@ -7,3 +7,5 @@ and much more
 
 # Tech Stack In-Use
 <li>Material UI</li>
+<li>ReactJS</li>
+<li>YouTube V3 API from RapidAPI</li>
